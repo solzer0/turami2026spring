@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "Bold";
+  src: url(./fonts/BookkGothic_Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Light";
+  src: url(./fonts/BookkGothic_Light.ttf) format("truetype");
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  color: inherit; /* 부모 글자색 상속 */
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+.ticket-card {
+  width: 250px;
+  height: 85px;
+  margin: 15px;
+  border-radius: 15px;
+  background: rgba(239, 238, 232, 0.8);
+  color: #767474;
+  text-align: center;
+  font-size: 11px;
+}
+
+.ticket-kind {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 33px;
+  border-radius: 15px;
+  background: #efeee8;
+  font-family: "Bold";
+}
+
+.ticket-info {
+  font-family: "Light";
+  font-size: 9px;
+  color: #767474;
+}
+
+/* 첫번째/두번째 카드 간 상단 여백 보정 */
+.ticket-card:nth-of-type(1) .ticket-info {
+  padding-top: 12px;
+}
+.ticket-card:nth-of-type(2) .ticket-info {
+  padding-top: 19.5px;
+}
+
+/* 리크루트 카드 */
+.recruit-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 33px;
+  margin: 15px;
+  border-radius: 15px;
+  background: #efeee8;
+  color: #767474;
+  text-align: center;
+  font-family: "Bold";
+  font-size: 11px;
+}
+
+/* ✅ 계좌 부분만 밑줄 + 손바닥 커서 */
+.account-number {
+  display: inline-block;
+  margin-top: 4px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* (선택) 포커스 가시성 향상 */
+.account-number:focus {
+  outline: 2px solid rgba(255, 255, 255, 0.9);
+  outline-offset: 2px;
+}

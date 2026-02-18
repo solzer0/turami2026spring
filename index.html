@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2026 뚜라미 봄공연</title>
+    <link rel="stylesheet" href="main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- 🔽 Open Graph (카톡/페북 미리보기용) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="2026 뚜라미 봄공연" />
+    <meta property="og:description" content="여기를 눌러 링크를 확인하세요." />
+    <meta property="og:url" content="https://solzer0.github.io/tu2025fall/" />
+    <!-- 썸네일 이미지: 절대경로 + 버전쿼리로 캐시 무효화 -->
+    <meta
+      property="og:image"
+      content="https://solzer0.github.io/tu2025fall/images/poster.png?v=2"
+    />
+  </head>
+  <body class="home">
+    <div class="poster-bg"></div>
+    <header>
+      <div class="header-wrapper">
+        <h1 class="logo">TURAMI</h1>
+        <button class="menu-toggle" id="menu-toggle" aria-label="메뉴 열기">
+          <span class="bar"></span> <span class="bar"></span>
+          <span class="bar"></span>
+        </button>
+      </div>
+    </header>
+    <div class="menu-cover"></div>
+    <nav class="menu" id="menu" aria-label="사이트 메뉴">
+      <ul>
+        <li><a href="./index.html">HOME</a></li>
+        <li><a href="./html/about.html">ABOUT</a></li>
+        <li><a href="./html/setlist.html">SETLIST</a></li>
+        <li><a href="./html/members.html">MEMBERS</a></li>
+        <li><a href="./html/ticket.html">TICKET</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section class="poster-section">
+        <!-- 데스크톱=호버, 모바일/터치=탭 토글 -->
+        <div
+          class="poster-wrap"
+          id="home-hero"
+          role="button"
+          tabindex="0"
+          aria-haspopup="dialog"
+          aria-controls="hero-overlay"
+          aria-expanded="false"
+        >
+          <img class="poster-img" src="./images/poster.png" alt="공연 포스터" />
+          <span class="poster-hint">클릭하여<br />세부정보 확인</span>
+          <div
+            class="hero-overlay"
+            id="hero-overlay"
+            role="dialog"
+            aria-modal="true"
+            aria-hidden="true"
+          >
+            <div class="hero-card" aria-label="TURAMI 링크">
+              <div class="hero-logo">
+                <img src="./images/turami_logo.png" alt="TURAMI 로고" />
+              </div>
+              <p class="hero-desc">
+                홍익대학교 중앙 창작곡 밴드 동아리 뚜라미<br />
+                2026년도 정기 봄공연 "SPECTRUM : I"
+              </p>
+              <div class="btn-list">
+                <a
+                  class="btn btn-yt"
+                  href="https://www.youtube.com/@hongik_TURAMI"
+                  target="_blank"
+                  rel="noopener"
+                  >뚜라미 공식 YOUTUBE</a
+                >
+                <a
+                  class="btn btn-ig"
+                  href="https://www.instagram.com/turami_hongik/"
+                  target="_blank"
+                  rel="noopener"
+                  >뚜라미 공식 INSTAGRAM</a
+                >
+                <a
+                  class="btn btn-ig"
+                  href="https://www.instagram.com/tugetherami/"
+                  target="_blank"
+                  rel="noopener"
+                  >뚜라미 활동 INSTAGRAM</a
+                >
+                <a
+                  class="btn btn-video"
+                  href="https://youtube.com/playlist?list=PLefGzk5Ndwqs69vKLASKBgkOwqGNirVZt&si=cH_JFUF1CsmybMAS"
+                  target="_blank"
+                  rel="noopener"
+                  >2025 정기 가을공연 영상 감상</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright(c) 2026 TURAMI, Hongik University. ALL RIGHTS RESERVED.</p>
+    </footer>
+    <!-- 헤더 전용 스크립트 -->
+    <script src="./js/header.js"></script>
+    <!-- 터치 robust 토글 -->
+    <script>
+      (function () {
+        const wrap = document.getElementById("home-hero");
+        if (!wrap) return;
+        const overlay = wrap.querySelector("#hero-overlay");
+        const firstBtn = wrap.querySelector(".btn-list .btn");
+        const isTouchLike =
+          window.matchMedia("(hover: none)").matches ||
+          window.matchMedia("(pointer: coarse)").matches ||
+          "ontouchstart" in window ||
+          (navigator.maxTouchPoints && navigator.maxTouchPoints > 0);
+        const open = () => {
+          wrap.classList.add("is-open", "hide-hint");
+          overlay.setAttribute("aria-hidden", "false");
+          wrap.setAttribute("aria-expanded", "true");
+          setTimeout(() => firstBtn && firstBtn.focus(), 0);
+        };
+        const close = () => {
+          wrap.classList.remove("is-open", "hide-hint");
+          overlay.setAttribute("aria-hidden", "true");
+          wrap.setAttribute("aria-expanded", "false");
+        };
+        const toggle = () =>
+          wrap.classList.contains("is-open") ? close() : open();
+        if (isTouchLike) {
+          let touched = false;
+          wrap.addEventListener(
+            "touchend",
+            (e) => {
+              if (e.target.closest(".hero-card") && e.target.tagName === "A")
+                return;
+              touched = true;
+              e.preventDefault();
+              toggle();
+              setTimeout(() => (touched = false), 400);
+            },
+            { passive: false },
+          );
+          wrap.addEventListener("click", (e) => {
+            if (touched) return;
+            if (e.target.closest(".hero-card") && e.target.tagName === "A")
+              return;
+            toggle();
+          });
+          overlay.addEventListener("click", (e) => {
+            if (e.target === overlay) close();
+          });
+          document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape" && wrap.classList.contains("is-open"))
+              close();
+          });
+        }
+      })();
+    </script>
+  </body>
+</html>

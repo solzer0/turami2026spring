@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SETLIST | TURAMI</title>
+    <link rel="stylesheet" href="../main.css" />
+    <link rel="stylesheet" href="../css/setlist.css" />
+  </head>
+
+  <body>
+    <div class="poster-bg"></div>
+
+    <header>
+      <div class="header-wrapper">
+        <h1 class="logo">SETLIST</h1>
+        <button class="menu-toggle" id="menu-toggle">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </button>
+      </div>
+    </header>
+
+    <div class="menu-cover"></div>
+
+    <nav class="menu" id="menu">
+      <ul>
+        <li><a href="../index.html">HOME</a></li>
+        <li><a href="./about.html">ABOUT</a></li>
+        <li><a href="./setlist.html">SETLIST</a></li>
+        <li><a href="./members.html">MEMBERS</a></li>
+        <li><a href="./ticket.html">TICKET</a></li>
+      </ul>
+    </nav>
+
+    <main class="setlist-page">
+      <p class="setlist-intro">
+        곡목을 클릭하여 참여진과 가사를 확인해 주세요!
+      </p>
+
+      <section class="setlist-groups" id="setlistGroups">
+        <!-- JS에서 카드 + 곡 목록 생성 -->
+      </section>
+
+      <!-- 가사 모달 -->
+      <div class="setlist-modal" id="setlistModal" aria-hidden="true">
+        <div class="setlist-modal-content" role="dialog" aria-modal="true">
+          <div class="setlist-modal-title-row">
+            <h2 class="setlist-modal-title" id="setlistModalTitle"></h2>
+            <button
+              type="button"
+              class="setlist-modal-close"
+              id="setlistModalClose"
+              aria-label="닫기"
+            >
+              ×
+            </button>
+          </div>
+          <div class="setlist-modal-meta" id="setlistModalMeta"></div>
+          <div class="setlist-modal-divider"></div>
+          <div class="setlist-modal-lyrics" id="setlistModalLyrics"></div>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p>Copyright(c) 2026 TURAMI, Hongik University. ALL RIGHTS RESERVED.</p>
+    </footer>
+
+    <script src="../js/header.js"></script>
+    <script src="../js/setlist.js"></script>
+  </body>
+</html>

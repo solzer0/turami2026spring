@@ -1,0 +1,223 @@
+@font-face {
+  font-family: "Bold";
+  src: url(./fonts/BookkGothic_Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Light";
+  src: url(./fonts/BookkGothic_Light.ttf) format("truetype");
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden; /* 가로 스크롤 방지 */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.about-container {
+  margin: 6rem auto 3rem;
+  max-width: 800px;
+  padding: 1rem;
+}
+
+/* 탭 */
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+  border-radius: 30px;
+  overflow: hidden;
+  background-color: rgba(239, 238, 232, 0.8);
+  backdrop-filter: blur(5px);
+  color: #efeee8;
+}
+.tab {
+  flex: 1;
+  text-align: center;
+  padding: 0.8rem 0;
+  cursor: pointer;
+  font-family: "Bold";
+  background-color: transparent;
+  transition: background-color 0.3s ease;
+  color: #767474;
+  border-radius: 30px;
+}
+.tab.active {
+  background-color: #efeee8;
+}
+
+/* 카드 */
+.content-box {
+  background-color: rgba(239, 238, 232, 0.8);
+  backdrop-filter: blur(10px);
+  padding: 2rem;
+  border-radius: 30px;
+  font-family: "Light";
+  height: auto;
+  max-height: calc(100vh - 180px); /* 탭 높이 + 여백 고려 */
+  overflow-y: auto;
+  overflow-x: hidden; /* ✅ 가로 스크롤 방지 */
+  box-sizing: border-box;
+  color: #767474; /* 본문 기본 텍스트는 검정 */
+}
+
+/* 탭 패널 */
+.tab-content > .tab-pane {
+  display: none;
+}
+.tab-content > .tab-pane.active {
+  display: block;
+}
+
+/* 공연 정보 */
+.content1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#tab-poster {
+  width: 200px;
+  border-radius: 14px;
+  flex-shrink: 0;
+}
+.content1-1,
+.content2-1 {
+  margin-top: 1.5rem;
+  line-height: 1.6;
+}
+
+/* 오시는 길 */
+.content2 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  line-height: 1.6;
+}
+.content3 {
+  line-height: 1.6;
+}
+
+/* ✅ content 영역 텍스트 색상 통일 */
+.content-box,
+.content-box p,
+.content-box li,
+.content-box strong,
+.content-box em,
+.content-box h1,
+.content-box h2,
+.content-box h3,
+.content-box h4,
+.content-box h5,
+.content-box h6 {
+  color: #000;
+}
+.content-box a,
+.content-box a:visited {
+  color: #767474;
+  text-decoration: underline;
+}
+.content-box a:hover,
+.content-box a:focus {
+  opacity: 0.85;
+  text-decoration: underline;
+}
+
+/* ✅ 카카오맵: roughmap과 충돌 방지 */
+.kakao-map-wrapper {
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  overflow-x: hidden; /* ✅ 내부 미세 오버런 방지 */
+}
+.kakao-map-wrapper .root_daum_roughmap,
+.kakao-map-wrapper .wrap_map {
+  border-radius: 16px;
+  overflow: hidden; /* 외부 잘림 방지 */
+  box-sizing: border-box;
+  max-width: 100% !important; /* ✅ 부모보다 커지지 않도록 */
+}
+
+/* 모바일 */
+@media (max-width: 600px) {
+  .about-container {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    max-width: 95%;
+  }
+  .tabs {
+    margin: 0 auto 1rem;
+    width: 100%;
+  }
+  .tab {
+    padding: 0.6rem 0;
+    font-size: 0.8rem;
+  }
+
+  .content-box {
+    height: 63vh;
+    padding: 1rem;
+    overflow-y: auto;
+  }
+
+  .tab-content {
+    overflow-y: auto;
+    max-height: 100%;
+  }
+
+  #tab-poster {
+    width: 110px;
+  }
+
+  .info-text1 p {
+    margin: 0.1rem 0;
+    line-height: 1.6;
+  }
+
+  .info-text1 p,
+  .content1-1,
+  .content3 {
+    font-size: min(3vw, 0.95rem);
+    word-break: keep-all;
+  }
+
+  /* ✅ 오시는 길 문구는 줄바꿈 허용(가로 스크롤 방지) */
+  .content2-1 {
+    font-size: min(3vw, 0.95rem);
+    word-break: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .kakao-map-wrapper {
+    max-width: 100%;
+  }
+}
+
+#radio-map {
+  width: 100%;
+  margin: 1rem 0;
+  border-radius: 12px;
+}
+
+/* 카카오 지도 자동 추가 텍스트/패널 제거 */
+#daumRoughmapContainer1753927748378 .wrap_controllers,
+#daumRoughmapContainer1753927748378 .wrap_map > div:last-child {
+  display: none !important;
+}
+/* ✅ 지도 아래 붙는 '주소/전화' 정보 패널 숨김 */
+#daumRoughmapContainer1753927748378 .wrap_map ~ * {
+  display: none !important;
+}
+/* (백업) 템플릿 변동 대비 */
+#daumRoughmapContainer1753927748378 dl {
+  display: none !important;
+}
