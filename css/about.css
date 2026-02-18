@@ -152,7 +152,7 @@ body {
   .about-container {
     margin-top: 1rem;
     padding: 0.5rem;
-    max-width: 95%;
+    max-width: 90%;
   }
   .tabs {
     margin: 0 auto 1rem;
@@ -165,7 +165,7 @@ body {
 
   .content-box {
     height: 63vh;
-    padding: 1rem;
+    padding: 1.5rem;
     overflow-y: auto;
   }
 
