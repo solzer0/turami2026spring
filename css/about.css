@@ -35,9 +35,9 @@ body {
   margin-bottom: 1rem;
   border-radius: 30px;
   overflow: hidden;
-  background-color: rgba(239, 238, 232, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   backdrop-filter: blur(5px);
-  color: #efeee8;
+  color: #ffffff;
 }
 .tab {
   flex: 1;
@@ -47,16 +47,16 @@ body {
   font-family: "Bold";
   background-color: transparent;
   transition: background-color 0.3s ease;
-  color: #767474;
+  color: #191919;
   border-radius: 30px;
 }
 .tab.active {
-  background-color: #efeee8;
+  background-color: #ffffff;
 }
 
 /* 카드 */
 .content-box {
-  background-color: rgba(239, 238, 232, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   backdrop-filter: blur(10px);
   padding: 2rem;
   border-radius: 30px;
@@ -66,7 +66,7 @@ body {
   overflow-y: auto;
   overflow-x: hidden; /* ✅ 가로 스크롤 방지 */
   box-sizing: border-box;
-  color: #767474; /* 본문 기본 텍스트는 검정 */
+  color: #191919; /* 본문 기본 텍스트는 검정 */
 }
 
 /* 탭 패널 */
@@ -123,7 +123,7 @@ body {
 }
 .content-box a,
 .content-box a:visited {
-  color: #767474;
+  color: #191919;
   text-decoration: underline;
 }
 .content-box a:hover,
@@ -209,15 +209,15 @@ body {
 }
 
 /* 카카오 지도 자동 추가 텍스트/패널 제거 */
-#daumRoughmapContainer1753927748378 .wrap_controllers,
-#daumRoughmapContainer1753927748378 .wrap_map > div:last-child {
+#daumRoughmapContainer1771686326308 .wrap_controllers,
+#daumRoughmapContainer1771686326308 .wrap_map > div:last-child {
   display: none !important;
 }
 /* ✅ 지도 아래 붙는 '주소/전화' 정보 패널 숨김 */
-#daumRoughmapContainer1753927748378 .wrap_map ~ * {
+#daumRoughmapContainer1771686326308 .wrap_map ~ * {
   display: none !important;
 }
 /* (백업) 템플릿 변동 대비 */
-#daumRoughmapContainer1753927748378 dl {
+#daumRoughmapContainer1771686326308 dl {
   display: none !important;
 }

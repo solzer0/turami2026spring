@@ -35,15 +35,15 @@ document.addEventListener("DOMContentLoaded", () => {
     if (mapRendered || typeof window.daum === "undefined" || !daum.roughmap)
       return;
     const { w, h } = getTargetSize();
-    const containerId = "daumRoughmapContainer1753927748378";
+    const containerId = "daumRoughmapContainer1771686326308";
     const container = document.getElementById(containerId);
     if (!container) return;
 
     // 안전 초기화 후 렌더
     container.innerHTML = "";
     new daum.roughmap.Lander({
-      timestamp: "1753927748378",
-      key: "6jotfgszqdk",
+      timestamp: "1771686326308",
+      key: "i69yzy5vmhd",
       mapWidth: w,
       mapHeight: h,
     }).render();
@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!mapRendered) return;
       mapRendered = false;
       renderKakaoMap();
-    }, 200)
+    }, 200),
   );
 
   document.addEventListener("DOMContentLoaded", hookLocationTab);

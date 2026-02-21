@@ -131,175 +131,67 @@ grand march without a drum
   {
     title: "나르키소스 - 설수민 자작곡",
     meta: "작곡작사 | 설수민\n구연성(V1) 정예은(V2) 정대현(G1) 최현민(G2) 조은비(B) 설수민(K) 허은찬(D)",
-    lyrics: `책상 위에 담요에다
-무자비하게 내리치다
-늙은 열매의 사체가
-차츰 훼손되었을 때
-계속 이렇게 가다간
-나도 사라지겠구나 싶어
-붉은 현장의 증거를
-모조리 인멸하던 참에
-
-감정 불안정과 자기애 과시에
-이전에는 그러려니 했던 것들이
-썩은 과일 무더기, 무덤으로 쌓여와
-내 귀를 만져주네
-
-지각 없는 착각과
-그로 인해 취미 삼았던 자학과
-새로 산 한 박스의
-젊은 과육의
-꽤나 된 전통의
-절규가 들려오네
-
-얼굴 붉힌 사람에게만
-주어지는 부끄러움과
-이롭지 않으니 껍질을
-한 꺼풀 베낀 손과
-어느 것에도 무엇이라도
-만족하지 못하는
-새빨간 나의 화를 누가 받아줘
-
-누가 받아줘
-누가 받아줘
-누가 받아줘
-
-누가 받아줘
-누가 받아줘
-누가 받아줘
-
-받아주지 않는 이상
-삼켜야만 하겠구나
-남은 인심은 어디다
-꽁쳐놓고 사는거냐 이 씨발새끼야
-짓이겨진 살코기와 함께
-발밑창에 끼었구나
-받아주지 않는 이상
-꼭 삼켜야만 하겠구나
-
-감정 불안정과 자기애 과시에
-이전에는 그러려니 했던 것들이
-썩은 과일 무더기, 무덤으로 쌓여와
-내 귀를 만져주네
-
-지각없는 착각과
-그로 인해 취미 삼았던 자학과
-새로 산 한 박스의
-젊은 과육의
-꽤나 된 전통의
-절규가 들려오네
-
-얼굴 붉힌 사람에게만
-주어지는 부끄러움과
-이롭지 않으니 껍질을
-한꺼풀 베낀 손과
-어느 것에도 무엇이라도
-만족하지 못하는
-새빨간 나의 화를
-
-누가 받아줘
-누가 받아줘
-누가 받아줘
-
-누가 받아줘
-누가 받아줘
-누가 받아줘
-
-책상 위에 담요에다가
-무자비하게 내리치다가
-늙은 열매의 사체가 차츰
-훼손되었을 때마다
-계속 이렇게 가다간
-나도 사라지겠구나 싶어
-붉은 현장의 증거를 모조리
-인멸하던 참에 
+    lyrics: `
 `,
   },
   {
     title: "멸종 - 쏜애플",
     meta: "원곡 | 쏜애플\n구연성(V) 정대현(G1) 최현민(G2) 윤희라(B) 허은찬(D)",
-    lyrics: `책상 위에 담요에다
-무자비하게 내리치다
-늙은 열매의 사체가
-차츰 훼손되었을 때
-계속 이렇게 가다간
-나도 사라지겠구나 싶어
-붉은 현장의 증거를
-모조리 인멸하던 참에
+    lyrics: `우리 머리 위로
+운석이 떨어져
+세상은 이미
+불타버리고 있는데도
 
-감정 불안정과 자기애 과시에
-이전에는 그러려니 했던 것들이
-썩은 과일 무더기, 무덤으로 쌓여와
-내 귀를 만져주네
+가까워져 오네
+‘어떻게든 되겠지’
+사람들은 모른 척
+고기만 뜯고 있네
 
-지각 없는 착각과
-그로 인해 취미 삼았던 자학과
-새로 산 한 박스의
-젊은 과육의
-꽤나 된 전통의
-절규가 들려오네
+만약 우리 마지막으로
+남으면 어쩌나
+그땐 너의 눈을 볼 거야
 
-얼굴 붉힌 사람에게만
-주어지는 부끄러움과
-이롭지 않으니 껍질을
-한 꺼풀 베낀 손과
-어느 것에도 무엇이라도
-만족하지 못하는
-새빨간 나의 화를 누가 받아줘
+만약 우리 마지막으로
+할 일이 없다면
+그땐 둘이서 춤을 출 거야
 
-누가 받아줘
-누가 받아줘
-누가 받아줘
+몇 번쯤 등 뒤를
+찔렸던 기억이
+마지막이라면 난
+조금 슬플 것 같아
 
-누가 받아줘
-누가 받아줘
-누가 받아줘
+평소엔 싫어도
+오늘은 괜찮아
+머리카락을 쓰다듬고
+속삭여 줄래?
 
-받아주지 않는 이상
-삼켜야만 하겠구나
-남은 인심은 어디다
-꽁쳐놓고 사는거냐 이 씨발새끼야
-짓이겨진 살코기와 함께
-발밑창에 끼었구나
-받아주지 않는 이상
-꼭 삼켜야만 하겠구나
+만약 우리 마지막으로
+남으면 어쩌나
+그땐 너의 눈을 볼 거야
 
-감정 불안정과 자기애 과시에
-이전에는 그러려니 했던 것들이
-썩은 과일 무더기, 무덤으로 쌓여와
-내 귀를 만져주네
+만약 우리 마지막으로
+할 일이 없다면
+그땐 둘이서 춤을 출 거야
 
-지각없는 착각과
-그로 인해 취미 삼았던 자학과
-새로 산 한 박스의
-젊은 과육의
-꽤나 된 전통의
-절규가 들려오네
+아, 우리들은
+누군가의 추억이 되어
+영원히 살고 싶다는 꿈을
+꾸어보았지
 
-얼굴 붉힌 사람에게만
-주어지는 부끄러움과
-이롭지 않으니 껍질을
-한꺼풀 베낀 손과
-어느 것에도 무엇이라도
-만족하지 못하는
-새빨간 나의 화를
+아, 우리들은
+어딘가의 별들이 되어
+영원히 외롭지 않을 것을
+다짐했었지
 
-누가 받아줘
-누가 받아줘
-누가 받아줘
+우린 아무것도 될 수 없었네
 
-누가 받아줘
-누가 받아줘
-누가 받아줘
+만일 혼자 마지막으로
+남으면 어쩌나
+그땐 너를 떠올릴 거야
 
-책상 위에 담요에다가
-무자비하게 내리치다가
-늙은 열매의 사체가 차츰
-훼손되었을 때마다
-계속 이렇게 가다간
-나도 사라지겠구나 싶어
-붉은 현장의 증거를 모조리
-인멸하던 참에 
+만일 혼자 마지막으로
+할 일이 없다면
+그때 나는 노래가 될 거야
 `,
   },
   {
@@ -435,38 +327,47 @@ Just don't move away from my dream
   {
     title: "널 안 봄 - 옥민준 자작곡",
     meta: "작곡작사 | 옥민준\n옥민준(V,AG) 권서진(B) 이제하(K,Chorus) 조민재(D,Chorus) 신대환(Percussion,Chorus) 신한영(Percussion,Melodica,Chorus)",
-    lyrics: `며칠을 울었나, 이젠 기억도 안나요
-바보처럼 굴었나, 싶은 순간도 떠올라요
-자기 전 늦은 밤, 가끔 웃긴 후회도 해봐요
-깊게 박힌 상처가 이젠 아무렇지가 않아요
+    lyrics: `
+오전 수업 다 끝나고 학교 밖에
+나오자마자 보인 꽁냥대는 커플
+이번 생은 틀렸다며 절레절레
+에어팟 귀에 꼽고 나서려하는데
 
-가슴 아픈 밤도 많았던 지난날은 잊어둘래요
-당신과의 추억 모두 소중했으니
-전혀 미워하고 싶지 않아요
+갑자기 내 눈 앞에 (내 눈 앞에)
+분홍빛 니가 보여 (시선강탈)
+오늘 나 로또 당첨 됐어
 
-아쉬운 마음은 아쉬운 마음대로
-지나간 시간 속에, 사라지진 않겠지만, 나는
-아름답던 그대 곁에서 머물러서
-사랑할 수 있어, 나 그대에게 고마웠어요!
+너와 마주쳤던 그 순간은 내가 본
+영화 중에 최고의 장면이야
+너구리 다시마 두개 나올 때
+보다 기분 좋은
+널 안 봄(= 너란 봄)
 
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
+새로 산 체크셔츠에 뿔테안경
+내 인생 최대 지출 심장이 두근거려(콩닥콩닥)
+식당 카페 영화 한강 홍대 건대
+지식인에 데이트 장소도 검색했는데
 
-상처 줬던 날도 많았죠 나 맘을 다해 사과할게요
-이기적인 나를 바라봐 준 당신이
-나를 미워해도 이해 할게요
+갑자기 핸드폰에 (카톡왔숑)
+미안해 라는 답장 (눈물콸콸)
+라면 한입만 보다 최악이야
 
-아쉬운 마음은 아쉬운 마음대로
-지나간 시간 속에, 사라지진 않겠지만, 나는
-아름답던 그대 곁에서 머물러서
-사랑할 수 있어, 나 그대에게 고마웠어요!
+너와 마주쳤던 그 순간은 내가 본
+영화 중에 최고의 장면이야
+너구리 다시마 두개 나올 때
+보다 기분 좋은
+널 안 봄(= 너란 봄)
 
-a ah, a ah - a ah, a ah –
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
+벚꽃엔딩을 같이 들을 생각에 나 엄청
+설레고 들뜨고 벅차올랐었는데
+뭐 어쩌겠어 결국 봄은 왔는데
+천천히 다가 왔다 금세 사라지는 너란 봄
+
+너와 헤어졌던 그 순간은 내가 본
+영화 중에 최악의 비극이야
+카톡 프로필 사진이 바껴도
+이제 안볼거야
+널 안 봄
 `,
   },
   {
@@ -553,38 +454,55 @@ a ah, a ah - a ah, a ah -
   {
     title: "RUN - 신한영 자작곡",
     meta: "작곡작사 | 신한영\n신한영(V,K) 최현민(G1,Chorus) 김민희(G2,Chorus) 권서진(B) 조민재(D,Chorus)",
-    lyrics: `며칠을 울었나, 이젠 기억도 안나요
-바보처럼 굴었나, 싶은 순간도 떠올라요
-자기 전 늦은 밤, 가끔 웃긴 후회도 해봐요
-깊게 박힌 상처가 이젠 아무렇지가 않아요
+    lyrics: `터지는 폭탄 같은 과제 더미 속에
+덤벙대는 몸뚱아리
+서둘러 얼렁뚱땅 또 넘기며
+날라온 돌덩이를 피해가지
 
-가슴 아픈 밤도 많았던 지난날은 잊어둘래요
-당신과의 추억 모두 소중했으니
-전혀 미워하고 싶지 않아요
+남들은 여기저기 놀러가고
+내 몸은 이리저리 불려가네
+남의 떡이 커보인다 하지만
+아무리 생각해도 이건 뭐 쉴 겨를이 없네
 
-아쉬운 마음은 아쉬운 마음대로
-지나간 시간 속에, 사라지진 않겠지만, 나는
-아름답던 그대 곁에서 머물러서
-사랑할 수 있어, 나 그대에게 고마웠어요!
+매일 매일 또 괴로워
+때로는 미친듯이 춤을 춰
+도와줘
+MAY DAY 날 꺼내줘
+날 그냥 내버려두지는 말아줘 Oh
 
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
+Say 내일 난 새롭게
+태어나 맑은 정신이었음 해
+알람이 땡 땡 하고 울리면
+바로 그 때
 
-상처 줬던 날도 많았죠 나 맘을 다해 사과할게요
-이기적인 나를 바라봐 준 당신이
-나를 미워해도 이해 할게요
+하 다 해치웠나?
 
-아쉬운 마음은 아쉬운 마음대로
-지나간 시간 속에, 사라지진 않겠지만, 나는
-아름답던 그대 곁에서 머물러서
-사랑할 수 있어, 나 그대에게 고마웠어요!
+매일매일 쌓인 카페인 끝내 Gain Pain
+사라져가 Smile on my face Please save me
+마감은 다가와 No more way Run away
+탈출하고파 I wanna play
 
-a ah, a ah - a ah, a ah –
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
-a ah, a ah - a ah, a ah -
+매일 매일 또 괴로워
+때로는 미친듯이 춤을 춰
+도와줘
+MAY DAY 날 꺼내줘
+날 그냥 내버려두지는 말아줘 Oh
+
+Say 내일 난 새롭게
+태어나 맑은 정신이었음 해
+알람이 땡 땡 하고 울리면
+모든 걸 집어던진 채 침대로 돌진하고 말았네 
+
+Oh 매일 × 4 괴로워
+때로는 미친듯이 춤을 춰
+도와줘
+MAY DAY 날 꺼내줘
+날 그냥 내버려두지는 말아줘 Oh
+
+Say 내일 난 새롭게
+태어나 맑은 정신이었음 해
+알람이 땡 땡 하고 울리면
+모든 걸 집어던진 채 침대로 돌진하고 말았네 
 `,
   },
   {
@@ -744,32 +662,207 @@ a ah, a ah - a ah, a ah -
 `,
   },
   {
-    title: "Zutto Zutto Zutto - Ryokuoushoku Shakai",
-    meta: "원곡 | Ryokuoushoku Shakai\n김리율(V) 이우준(G1) 조민재(G2) 김예은(B) 이제하(K) 김채영(D)",
-    lyrics: `사는 게 지겨워질 때쯤
-세상이 끝나려나 봐
-숨을 쉬는 게 상상인 거야
-그게 차라리 더 나을 테니까
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream.
-우리 이곳에서 영원하길
-사는 게 지겨워질 때쯤
-나는 어디쯤에 있나요
-모든 말이 다 필요 없어 난
-그저 너와 나 다 가진 것처럼
-술에 취해 뛰놀자
-파랗게 물든 멍에도
-우린 신경도 안 쓸 테니
-멈추진 말아줘
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
+    title: "Zutto Zutto Zutto - 녹황색사회",
+    meta: "원곡 | 녹황색사회\n김리율(V) 이우준(G1) 조민재(G2) 김예은(B) 이제하(K) 김채영(D)",
+    lyrics: `忘れちゃいけないことばかりだ
+와스레챠이케나이코토바카리다
+잊어서는 안 되는 것들 투성이야
+
+病める日も健やかなる日でも
+야메루히모스코야카나루히데모
+아픈 날도 건강한 날에도
+
+風が吹く度思い出すのさ
+카제가후쿠타비오모이다스노사
+바람이 불어올 때마다 떠올리는 거야
+
+刻んで飲み込んで歩いてく
+키잔데노미콘데아루이테쿠
+새기고 삼키고서 걸어가
+
+人生一度きりだってさ
+진세이이치도키리닷테사
+인생은 한 번뿐이래
+
+ごめんねまだピンとこないや
+고멘네마다핀토코나이야
+미안 아직 확 와닿지는 않네
+
+ただ納得できないんだ
+타다낫토쿠데키나인다
+그냥 납득이 안 가
+
+もっともっとやれるんだ
+못토못토야레룬다
+좀 더 좀 더 할 수 있어
+
+正解はないのに求めてる
+세이카이와나이노니모토메테루
+정답은 없는데도 갈망하고 있어
+
+同じ今日は二度と来ないんだ
+오나지쿄-와니도토코나인다
+똑같은 오늘은 두 번 다신 오지 않아
+
+分かってんのに悔やんでなんで泣いて
+와캇텐노니쿠얀데난데나이테
+알면서도 후회하고 어째서 울고
+
+ほらもう明日を愛おしく思うなら喜んで
+호라모-아시타오이토오시쿠오모우나라요로콘데
+자 이제 내일을 사랑스럽게 여긴다면 기뻐하자
+
+諦めきれないことばかりだ
+아키라메키레나이코토바카리다
+포기할 수 없는 것들 투성이야
+
+大事なものは大事にしなくちゃ
+다이지나모노와다이지니시나쿠챠
+소중한 건 소중하게 여겨야 해
+
+あの日の自分が教えてくれた
+아노히노지분가오시에테쿠레타
+그날의 나 자신이 알려줬어
+
+零した雫も叶えてく
+코보시타시즈쿠모카나에테쿠
+흘린 눈물도 이뤄가
+
+忘れちゃいけないことばかりだ
+와스레챠이케나이코토바카리다
+잊어서는 안 되는 것들 투성이야
+
+病める日も健やかなる日でも
+야메루히모스코야카나루히데모
+아픈 날도 건강한 날에도
+
+風が吹く度思い出すのさ
+카제가후쿠타비오모이다스노사
+바람이 불어올 때마다 떠올리는 거야
+
+刻んで飲み込んで歩いていくんだ
+키잔데노미콘데아루이테이쿤다
+새기고 삼키고서 걸어가는 거야
+
+ずっとずっとずっと
+즛토즛토즛토
+계속 계속 계속
+
+人類みな人の子でさ
+진루이미나히토노코데사
+인류 모두 사람의 자식이야
+
+大人とか子供とかじゃない
+오토나토카코도모토카쟈나이
+어른이나 아이 뭐 그런 게 아냐
+
+錯乱する流行りなんかに
+사쿠란스루하야리난카니
+착란을 일으키는 유행 따위에
+
+負けてなんかいられないよ
+마케테난카이라레나이요
+지고 있을 수는 없어
+
+そんな暇ないのに疲れてる
+손나히마나이노니츠카레테루
+그럴 틈이 없는데 지쳐 있어
+
+美味しそうに喉を鳴らして
+오이시소-니노도오나라시테
+맛있다는 듯이 목구멍으로 소리를 내
+
+ないものをねだってなんで泣いて
+나이모노오네닷테난데나이테
+생떼를 부리고 어째서 울고
+
+ほらもう大丈夫だよ
+호라모-다이죠-부다요
+봐 이미 괜찮아
+
+いい加減に許そうよグッバイ
+이이카겐니유루소-요굿바이
+적당히 하고 용서하자 굿바이
+
+気まぐれに波打つ感情が
+키마구레니나미우츠칸죠-가
+변덕스럽게 물결치는 감정이
+
+上がる下がる下がる上がる
+아가루사가루사가루아가루
+올라가고 내려가고 내려가고 올라가고
+
+このうちのどれが本物か
+코노우치노도레가혼모노카
+이 중 어느 것이 진짜인지
+
+分かってるんでしょ、ねえ
+와캇테룬데쇼,네-
+알고 있잖아, 그치
+
+問いただすまでも、ない
+토이타다스마데모,나이
+따져볼 것까지도, 없어
+
+一生の付き合いだなんて言って
+잇쇼-노츠키아이다난테잇테
+평생 갈 사이라고 말하면서
+
+可愛がってくんだずっと
+카와이갓테쿤다즛토
+예뻐하는 거야 계속
+
+明日に希望はないや
+아시타니키보-와나이야
+내일에게 희망은 없어
+
+それでもそれなりに愛しているよ世界
+소레데모소레나리니아이시테이루요세카이
+그럼에도 그런대로 사랑하고 있어 세상을
+
+やり残してるあれやこれを
+야리노코시테루아레야코레오
+하다가 남겨 둔 이것저것을
+
+まだ何一つ見離せない
+마다나니히토츠미하나세나이
+아직 무엇 하나 단념할 수 없어
+
+諦めきれないことばかりだ
+아키라메키레나이코토바카리다
+포기할 수 없는 것들 투성이야
+
+大事なものは大事にしなくちゃ
+다이지나모노와다이지니시나쿠챠
+소중한 건 소중하게 여겨야 해
+
+あの日の自分に歌っていくのさ
+아노히노지분니우탓테이쿠노사
+그날의 자신에게 노래하며 가는 거야
+
+零した雫は裏切らない
+코보시타시즈쿠와우라기라나이
+흘린 눈물은 배신하지 않아
+
+忘れちゃいけないことばかりだ
+와스레챠이케나이코토바카리다
+잊어서는 안 되는 것들 투성이야
+
+病める日も健やかなる日でも
+야메루히모스코야카나루히데모
+아픈 날도 건강한 날에도
+
+風が吹く度思い出すのさ
+카제가후쿠타비오모이다스노사
+바람이 불어올 때마다 떠올리는 거야
+
+刻んで飲み込んで歩いていくんだ
+키잔데노미콘데아루이테이쿤다
+새기고 삼키고서 걸어가는 거야
+
+ずっとずっとずっと
+즛토즛토즛토
+계속 계속 계속
 `,
   },
   {
@@ -889,88 +982,59 @@ Just don't move away from my dream
   {
     title: "sandman + 우주선 - 박동헌, 추예림 자작곡",
     meta: "작곡 - 박동헌, 추예림\n작사 - 박동헌\n편곡 - 추예림\n추예림(K1) 이서윤(K2) 김수아(Violin) 최민석(D1) 오연우(D2)",
-    lyrics: `사는 게 지겨워질 때쯤
-세상이 끝나려나 봐
-숨을 쉬는 게 상상인 거야
-그게 차라리 더 나을 테니까
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream.
-우리 이곳에서 영원하길
-사는 게 지겨워질 때쯤
-나는 어디쯤에 있나요
-모든 말이 다 필요 없어 난
-그저 너와 나 다 가진 것처럼
-술에 취해 뛰놀자
-파랗게 물든 멍에도
-우린 신경도 안 쓸 테니
-멈추진 말아줘
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
+    lyrics: ` 
 `,
   },
   {
     title: "라스트패스트 - 박동헌 자작곡",
-    meta: "작곡 - 박동헌\n작사 - 박동헌\n오연우(V) 윤희라(G) 장희수(B) 추예림(K1) 이서윤(K2) 김수아(Violin) 최민석(D)",
-    lyrics: `사는 게 지겨워질 때쯤
-세상이 끝나려나 봐
-숨을 쉬는 게 상상인 거야
-그게 차라리 더 나을 테니까
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream.
-우리 이곳에서 영원하길
-사는 게 지겨워질 때쯤
-나는 어디쯤에 있나요
-모든 말이 다 필요 없어 난
-그저 너와 나 다 가진 것처럼
-술에 취해 뛰놀자
-파랗게 물든 멍에도
-우린 신경도 안 쓸 테니
-멈추진 말아줘
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
+    meta: "작곡 - 박동헌 추예림 김수아\n작사 - 박동헌\n오연우(V) 윤희라(G) 장희수(B) 추예림(K1) 이서윤(K2) 김수아(Violin) 최민석(D)",
+    lyrics: `엮이지 않는 매듭의 밤 중에 잃은 눈
+자라봤기에 작을 수 있겠지만
+아직은 어색해 보여
+가장 따스한 색, 오렌지 해가 나길 기다려
+긴 추위도 견디고 선해진 잔상은 던지고
+
+어제의 모든 것들을 삼키지 못한 너는
+가득 찬 모퉁이만 맴돌아
+또 여전히
+갈래의 끝이 무서워 달리지 못했지만
+나란히 남은 날을 기다려
+
+유난히 바랬던 그 날의 너의 막이 내려도
+돌아보지는 마
+더 나은 다음이 남았기에
+흐르는 마지막 눈물의 맘이 날아가도
+사라지지 않아
+언젠가 지나 올 그 곳으로 갈게
+
+넌 바다에 던져진 해적같이 파도를 무서워하지 않았었지
+나는 얼마나 더, 얼마만큼 더
+자라나야 널 따라 항해할까
+웃음에 가려진 비구름을 아직은 이따금 나는 두려워해
+결국 얼마나 더, 얼마만큼 더
+웃어야만 난 너를 향해 할까
 `,
   },
   {
     title: "별과 혼 - 이서윤 자작곡",
-    meta: "작곡 - 이서윤, 추예림\n작사 - 추예림\n오연우(V) 김예은(B) 추예림(K1) 이서윤(K2) 최민석(D)",
-    lyrics: `사는 게 지겨워질 때쯤
-세상이 끝나려나 봐
-숨을 쉬는 게 상상인 거야
-그게 차라리 더 나을 테니까
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream.
-우리 이곳에서 영원하길
-사는 게 지겨워질 때쯤
-나는 어디쯤에 있나요
-모든 말이 다 필요 없어 난
-그저 너와 나 다 가진 것처럼
-술에 취해 뛰놀자
-파랗게 물든 멍에도
-우린 신경도 안 쓸 테니
-멈추진 말아줘
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
-So find me in this world
-많은 걸 바라진 않을 테니
-Just don't move away from my dream
-우리 이곳에서 영원하길
+    meta: "작곡 - 이서윤\n작사 - 추예림\n오연우(V) 김예은(B) 추예림(K1) 이서윤(K2) 최민석(D)",
+    lyrics: `두드리기 전, 이미 풀려있던 작은 문고리
+알고 있던 옆자리에 모르고 있던 목소리
+
+그립기도 전, 섣불리 피어버린 아마릴리
+이상하고 신기한 건 같은 소원을 비는 것
+
+만난 까닭 어림짐작해보면 모래알만큼
+함께 흔들린 양 손에는 소낙비가 한움큼
+
+나만 아는 너의 별난 이름은 꼭 다문 비밀
+상자 안에 아름 가득 넣고 ‘그럼 내일 보자’
+
+아, 언젠가 메마른 세상에 눈이 내린다면
+(나는 가장 먼저 울고 있는 울보의 곁으로)
+
+아, 드넓은 사막에서 비늘을 찾아낸다면
+(그건 희미하게 남겨진 너의 발자국으로)
 `,
   },
   {
@@ -1010,6 +1074,166 @@ I don't know I don't know
 I can't go home
 `,
   },
+  {
+    title: "Marunouchi Sadistic - Tokyo Jihen (동경사변)",
+    meta: "원곡 | Tokyo Jihen (동경사변)\n방민서(V) 구연성(G1, Chorus) 강정민(B) 설수민(K) 부경민(D)",
+    lyrics: `어느새 길들여진 내 하루에
+저릿한 두 다리
+바람을 가르는 내 더러운 발
+뚜렷한 도시의 빛
+알수록 더 모르겠는 건
+나는 어디에서 왔을까
+갈수록 더 아득해진 건
+자 돌아갈 곳은 어디
+If I go back where should I go back
+Go back go back
+If I go back where should I go back
+Go back go back
+I don't know I don't know
+I can't go home
+어느새 비틀어진 내 하루에
+흐릿해진 내 몸
+하늘에 별은 다 어디로 숨어
+뚜렷한 도시의
+If I go back where should I go back
+Go back go back
+If I go back where should I go back
+Go back go back
+If I go back where should I go back
+Go back go back
+If I go back where should I go back
+Go back go back
+I don't know I don't know
+I can't go home
+I don't know I don't know
+I can't go home
+I don't know I don't know
+I can't go home
+`,
+  },
+  {
+    title: "Never Too Much - Luther Vandross",
+    meta: "원곡 | Luther Vandross\n구연성(V, G1) 서범석(G2) 윤희라(B) 설수민(K1) 이수인(K2) 허은찬(D) 방민서(Chorus)",
+    lyrics: `I can't fool myself, I don't want nobody else to ever love me
+You are my shinin' star, my guiding light, my love fantasy
+There's not a minute, hour, day or night that I don't love you
+You're at the top of my list ‘cause I'm always thinkin' of you
+
+I still remember in the days when I scared to touch you
+How I spent my day dreamin' plannin' how to say I love you
+You must have known that I had feelings deep enough to swim in
+That's when you opened up your heart and you told me to come in
+
+Oh, my love
+A thousand kisses from you is never too much
+I just don't wanna stop
+
+Oh, my love
+A million days in your arms is never too much
+I just don't wanna stop
+
+Too much, never too much, never too much, never too much
+
+Woke up today, looked at your picture just to get me started
+I called you up, but you weren't there and I was broken hearted
+Hung up the phone, can't be too late, the boss is so demandin'
+Opened the door up and to my surprise there you were standin'
+
+Who needs to go to work to hustle for another dollar
+I'd rather be with you ‘cause you make my heart scream and holler
+Love is a gamble and I'm so glad that I am winnin'
+We've come a long way and yet this is only the beginnin'
+
+Oh, my love
+A thousand kisses from you is never too much
+(Never too much, never too much, never too much)
+I just don't wanna stop
+
+Oh, my love
+A million days in your arms is never too much
+(Never too much, never too much, never too much)
+And I just don't wanna stop
+
+Oh, my love
+A thousand kisses from you is never
+(Never too much, never too much, never too much)
+I just don't wanna stop
+
+Oh, my love
+A million days in your arms is never too much
+`,
+  },
+  {
+    title: "멸종위기사랑 - 이찬혁",
+    meta: "원곡 | 이찬혁\n신한영(V) 서범석(G1) 구연성(G2) 윤희라(B) 이수인(K1) 설수민(K2) 조은비(D) 방민서(Chorus) 허은찬(Chorus) 박지니(Chorus)",
+    lyrics: `왔다네 정말로
+아무도 안 믿었던
+사랑의 종말론
+It's over tonight
+
+God mercy (God mercy on this ground)
+Where the hell (where the hell is EROS going)
+Did you hear that
+You heard that
+What's it sound
+
+Back in the day
+한 사람당 하나의
+사랑이 있었대
+내일이면
+인류가 잃어버릴
+멸종위기사랑
+
+Back in the day
+불이 만들어지는
+사랑이 있었대
+내일이면
+인류가 잃어버릴
+멸종위기사랑
+
+왔다네 정말로
+아무도 안 믿었던
+사랑의 종말론
+It's over tonight
+
+Stop people
+Stop letting this world depraved
+Where the hell (where the hell is EROS going)
+Did you hear that
+You heard that
+What's it sound
+
+Back in the day
+한 사람당 하나의
+사랑이 있었대
+내일이면
+인류가 잃어버릴
+멸종위기사랑
+
+사랑
+News is announcing ’bout its ending
+사랑
+Who’s still gonna sing for the love
+People
+
+Revive it somehow
+Revive it somehow
+
+Back in the day
+한 사람당 하나의
+사랑이 있었대
+내일이면
+인류가 잃어버릴
+멸종위기사랑
+
+Back in the day
+불이 만들어지는
+사랑이 있었대
+내일이면
+인류가 잃어버릴
+멸종위기사랑
+`,
+  },
 ];
 
 // 새 SETLIST UI: 티켓 카드 6개 + 모달
@@ -1044,7 +1268,7 @@ document.addEventListener("DOMContentLoaded", () => {
       ],
     },
     {
-      label: "2-1. 옥신크림",
+      label: "2-1. 옥신크린",
       titles: [
         "널 안 봄 - 옥민준 자작곡",
         "적도 - 전기뱀장어",
@@ -1056,7 +1280,7 @@ document.addEventListener("DOMContentLoaded", () => {
       label: "2-2. 청량락",
       titles: [
         "Rubato - 요루시카",
-        "Zutto Zutto Zutto - Ryokuoushoku Shakai",
+        "Zutto Zutto Zutto - 녹황색사회",
         "불 - 유다빈밴드",
         "축배 - 유다빈밴드",
       ],

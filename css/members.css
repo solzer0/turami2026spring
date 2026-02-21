@@ -39,9 +39,9 @@
   display: flex; /*가로한줄 배치*/
   align-items: center; /*자식 요소들 세로 중앙 정렬*/
   height: 39px;
-  background: rgba(239, 238, 232, 0.8);
+  background: rgba(255, 255, 255, 0.8);
   border-radius: 19.333px;
-  color: #767474;
+  color: #191919;
   overflow: hidden; /*내부 콘텐츠가 넘칠 경우, 넘치는 부분은 잘라버림*/
   white-space: nowrap; /*줄바꿈 허용 안해*/
   text-overflow: ellipsis; /*텍스트가 넘칠 경우 말줄임표(...) 로 표시*/
@@ -55,7 +55,7 @@
   justify-content: center; /* 텍스트 가운데 정렬 (선택) */
   height: 39px;
   width: 90px;
-  background-color: #efeee8;
+  background-color: #ffffff;
   font-family: "Bold";
   font-size: 0.8rem;
   font-weight: 600;
@@ -65,7 +65,7 @@
 .desc {
   font-family: "Light";
   font-size: 9px;
-  color: 767474;
+  color: #191919;
   text-overflow: ellipsis;
   flex-grow: 1; /*🔹 남는 공간 다 차지*/
 }
