@@ -12,6 +12,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  box-sizing: border-box;
+  /* 모바일 탭 하이라이트 제거 */
+  -webkit-tap-highlight-color: transparent;
 }
 html,
 body {
@@ -34,8 +37,10 @@ body {
   background-image: url("./images/poster.png");
   background-size: cover;
   background-position: center;
+  transform: scale(1.1);
   filter: blur(10px);
   z-index: -1;
+  will-change: transform;
 }
 
 /* 헤더 */

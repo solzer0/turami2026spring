@@ -34,12 +34,12 @@ main.setlist-page {
   flex: 1 1 auto;
   overflow-y: auto;
   overflow-x: hidden;
-  padding-bottom: 20px;
+  padding-bottom: 70px;
   /* 하단 페이드 효과만 (상단은 스크롤 시작 전에는 페이드 없음) */
   mask-image: linear-gradient(
     to bottom,
     black 0%,
-    black calc(100% - 20px),
+    black calc(100% - 70px),
     transparent 100%
   );
   -webkit-mask-image: linear-gradient(
