@@ -38,6 +38,7 @@ body {
   background-color: rgba(255, 255, 255, 0.8);
   backdrop-filter: blur(5px);
   color: #ffffff;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
 .tab {
   flex: 1;
@@ -67,6 +68,7 @@ body {
   overflow-x: hidden; /* ✅ 가로 스크롤 방지 */
   box-sizing: border-box;
   color: #191919; /* 본문 기본 텍스트는 검정 */
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
 
 /* 탭 패널 */

@@ -29,6 +29,7 @@ a {
   color: #191919;
   text-align: center;
   font-size: 11px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
 
 .ticket-kind {
@@ -70,6 +71,7 @@ a {
   text-align: center;
   font-family: "Bold";
   font-size: 11px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
 }
 
 /* ✅ 계좌 부분만 밑줄 + 손바닥 커서 */
