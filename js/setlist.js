@@ -42,7 +42,7 @@ grand march without a drum
 `,
   },
   {
-    title: "토마토살인사건 - 데카당",
+    title: "토마토 살인사건 - 데카당",
     meta: "원곡 | 데카당\n최종윤(V,B) 남경태(G1) 박지니(G2) 정대현(K,Chorus) 조민재(D)",
     lyrics: `책상 위에 담요에다
 무자비하게 내리치다
@@ -889,7 +889,7 @@ Say 내일 난 새롭게
   },
   {
     title: "불 - 유다빈밴드",
-    meta: "원곡 | 유다빈밴드\n김리율(V) 유수민(G1) 김동현(G2, Chorus) 장희수(B) 이제하(K1) 이수인(K2) 부경민(D) 김동현(Chorus) 김예은(Chorus) 조민재(Chorus)",
+    meta: "원곡 | 유다빈밴드\n김리율(V) 유수민(G1) 김동현(G2) 장희수(B) 이제하(K1) 이수인(K2) 부경민(D) 김동현(Chorus) 김예은(Chorus) 조민재(Chorus)",
     lyrics: `난 왠지 모르게 슬픈 거 있지
 시들기만 할 꽃도 남지 않은 게
 난 여전히 살아있고 싶을 뿐이야
@@ -1378,9 +1378,9 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       label: "2-1. 낭만청춘청량롹",
       titles: [
+        "불 - 유다빈밴드",
         "Rubato - 요루시카",
         "Zutto Zutto Zutto - 녹황색사회",
-        "불 - 유다빈밴드",
         "축배 - 유다빈밴드",
       ],
     },
