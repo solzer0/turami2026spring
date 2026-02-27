@@ -1361,7 +1361,7 @@ document.addEventListener("DOMContentLoaded", () => {
       label: "1-1. 경외 敬畏",
       titles: [
         "zeitgeist - 칵스 (THE KOXX)",
-        "토마토살인사건 - 데카당",
+        "토마토 살인사건 - 데카당",
         "나르키소스 - 설수민 자작곡",
         "멸종 - 쏜애플",
       ],
