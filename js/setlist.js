@@ -1,7 +1,7 @@
 const songs = [
   {
     title: "zeitgeist - 칵스 (THE KOXX)",
-    meta: "원곡 | 칵스 (THE KOXX)\n정예은(G1) 남경태(G2) 정대현(K)",
+    meta: "원곡 | 칵스 (THE KOXX)\n정예은(G1) 남경태(G2) 정대현(K,Chorus)",
     lyrics: `see that broken throne of a ruined world
 common people carry on
 everyone's waiting for something now
@@ -218,7 +218,7 @@ grand march without a drum
   },
   {
     title: "시간을 달리네 - 한로로",
-    meta: "원곡 | 한로로\n정예은(V) 오명(G1) 김동현(G2) 김예은(B, Chorus) 이서윤(K) 김채영(D) 문민기(Chorus) 이우준(Chorus) 박지니(Chorus)",
+    meta: "원곡 | 한로로\n정예은(V) 오명(G1) 김동현(G2) 김예은(B, Chorus) 이서윤(K) 김채영(D) 문민기(Chorus) 박지니(Chorus) 이우준(Chorus)",
     lyrics: `만약 우리가 서로에게서
 영영 사라진대도
 나는 나대로 너는 너대로
@@ -260,7 +260,7 @@ grand march without a drum
   },
   {
     title: "큰새 - 혁오",
-    meta: "원곡 | 혁오\n문민기(V) 이우준(G1,Chorus) 김동현(G2) 조아름(B) 조은비(D) 정예은(Chorus) 박지니(Chorus) 이서윤(Chorus)",
+    meta: "원곡 | 혁오\n문민기(V) 이우준(G1) 김동현(G2) 조아름(B) 조은비(D) 박지니(Chorus) 이서윤(Chorus) 정대현(Chorus) 정예은(Chorus)",
     lyrics: `기억의 기억을 훑어야 해
 꽉 잡은 밤하늘을 돌봐야 해
 늘 검은 천장으로 여겼더니
@@ -394,7 +394,7 @@ Just don't move away from my dream
   },
   {
     title: "적도 - 전기뱀장어",
-    meta: "원곡 | 전기뱀장어\n신대환(V) 조민재(G1) 서범석(G2) 장희수(B) 권서진(D) ",
+    meta: "원곡 | 전기뱀장어\n신대환(V) 조민재(G1) 서범석(G2) 장희수(B) 권서진(D)",
     lyrics: `함께 춤추는 파란 모래 위에
 너와 나의 손엔 이름 모를 칵테일
 몇 잔에 자꾸만 내 눈은 흔들리는데
@@ -529,7 +529,7 @@ Say 내일 난 새롭게
   },
   {
     title: "Rubato - 요루시카",
-    meta: "원곡 | 요루시카\n김리율(V) 오명(G1) 서범석(G2) 김예은(B) 이수인(K1) 이제하(K2) 김채영(D)", //"원곡 | 유다빈밴드\n참여 | 김리율(V) 한호현(G1) 이우준(G2) 김예은(B) 조민재(D) 정홍준(K1) 이서윤(K2)"
+    meta: "원곡 | 요루시카\n김리율(V) 오명(G1) 서범석(G2) 김예은(B) 이수인(K1) 이제하(K2) 김채영(D) 이우준(Chorus)", //"원곡 | 유다빈밴드\n참여 | 김리율(V) 한호현(G1) 이우준(G2) 김예은(B) 조민재(D) 정홍준(K1) 이서윤(K2)"
     lyrics: `あ、ちょっと楽しい
 아 춋토 타노시이
 아、조금 즐거워
@@ -889,7 +889,7 @@ Say 내일 난 새롭게
   },
   {
     title: "불 - 유다빈밴드",
-    meta: "원곡 | 유다빈밴드\n김리율(V) 유수민(G1) 김동현(G2) 장희수(B) 이제하(K1) 이수인(K2) 부경민(D)",
+    meta: "원곡 | 유다빈밴드\n김리율(V) 유수민(G1) 김동현(G2, Chorus) 장희수(B) 이제하(K1) 이수인(K2) 부경민(D) 김동현(Chorus) 김예은(Chorus) 조민재(Chorus)",
     lyrics: `난 왠지 모르게 슬픈 거 있지
 시들기만 할 꽃도 남지 않은 게
 난 여전히 살아있고 싶을 뿐이야
@@ -1098,7 +1098,7 @@ I can't go home
   },
   {
     title: "Marunouchi Sadistic - Tokyo Jihen (동경사변)",
-    meta: "원곡 | Tokyo Jihen (동경사변)\n방민서(V) 구연성(G1, Chorus) 강정민(B) 설수민(K) 부경민(D)",
+    meta: "원곡 | Tokyo Jihen (동경사변)\n방민서(V) 구연성(G1,Chorus) 강정민(B) 설수민(K) 부경민(D)",
     lyrics: `報酬は入社後並行線で
 호슈와 뉴샤고 헤이코 센데
 보수는 입사 후 병행선이고
@@ -1221,7 +1221,7 @@ Still floating, as time rolls by
   },
   {
     title: "Never Too Much - Luther Vandross",
-    meta: "원곡 | Luther Vandross\n구연성(V, G1) 서범석(G2) 윤희라(B) 설수민(K1) 이수인(K2) 허은찬(D) 방민서(Chorus)",
+    meta: "원곡 | Luther Vandross\n구연성(V,G1) 서범석(G2) 윤희라(B) 설수민(K1) 이수인(K2) 허은찬(D) 방민서(Chorus)",
     lyrics: `I can't fool myself, I don't want nobody else to ever love me
 You are my shinin' star, my guiding light, my love fantasy
 There's not a minute, hour, day or night that I don't love you
@@ -1273,7 +1273,7 @@ A million days in your arms is never too much
   },
   {
     title: "멸종위기사랑 - 이찬혁",
-    meta: "원곡 | 이찬혁\n신한영(V) 서범석(G1) 구연성(G2) 윤희라(B) 이수인(K1) 설수민(K2) 조은비(D) 방민서(Chorus) 허은찬(Chorus) 박지니(Chorus)",
+    meta: "원곡 | 이찬혁\n신한영(V) 서범석(G1) 구연성(G2) 윤희라(B) 이수인(K1) 설수민(K2) 조은비(D) 권서진(Chorus) 김리율(Chorus) 박지니(Chorus) 방민서(Chorus) 허은찬(Chorus)",
     lyrics: `왔다네 정말로
 아무도 안 믿었던
 사랑의 종말론
