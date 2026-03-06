@@ -475,7 +475,7 @@ a ah, a ah - a ah, a ah -
   },
   {
     title: "RUN - 신한영 자작곡",
-    meta: "작곡작사 | 신한영\n신한영(V,K) 최현민(G1,Chorus) 김민희(G2,Chorus) 권서진(B) 조민재(D,Chorus)",
+    meta: "작곡작사 | 신한영\n신한영(V) 최현민(G1) 김민희(G2,Chorus) 권서진(B) 정민기(K) 조민재(D,Chorus)",
     lyrics: `터지는 폭탄 같은 과제 더미 속에
 덤벙대는 몸뚱아리
 서둘러 얼렁뚱땅 또 넘기며
@@ -1061,7 +1061,7 @@ Say 내일 난 새롭게
   },
   {
     title: "집에 - 새소년",
-    meta: "원곡 | 새소년\n방민서(V) 구연성(G1) 강정민(B) 설수민(K) 부경민(D)",
+    meta: "원곡 | 새소년\n방민서(V) 구연성(G) 강정민(B) 설수민(K) 부경민(D)",
     lyrics: `어느새 길들여진 내 하루에
 저릿한 두 다리
 바람을 가르는 내 더러운 발
@@ -1098,7 +1098,7 @@ I can't go home
   },
   {
     title: "Marunouchi Sadistic - Tokyo Jihen (동경사변)",
-    meta: "원곡 | Tokyo Jihen (동경사변)\n방민서(V) 구연성(G1,Chorus) 강정민(B) 설수민(K) 부경민(D)",
+    meta: "원곡 | Tokyo Jihen (동경사변)\n방민서(V) 구연성(G) 강정민(B) 설수민(K) 부경민(D)",
     lyrics: `報酬は入社後並行線で
 호슈와 뉴샤고 헤이코 센데
 보수는 입사 후 병행선이고
@@ -1273,7 +1273,7 @@ A million days in your arms is never too much
   },
   {
     title: "멸종위기사랑 - 이찬혁",
-    meta: "원곡 | 이찬혁\n신한영(V) 서범석(G1) 구연성(G2) 윤희라(B) 이수인(K1) 설수민(K2) 조은비(D) 권서진(Chorus) 김리율(Chorus) 박지니(Chorus) 방민서(Chorus) 허은찬(Chorus)",
+    meta: "원곡 | 이찬혁\n신한영(V) 구연성(G1) 서범석(G2) 윤희라(B) 이수인(K1) 설수민(K2) 조은비(D) 권서진(Chorus) 김리율(Chorus) 박지니(Chorus) 방민서(Chorus) 허은찬(Chorus)",
     lyrics: `왔다네 정말로
 아무도 안 믿었던
 사랑의 종말론
